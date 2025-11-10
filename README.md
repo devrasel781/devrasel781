@@ -1,7 +1,6 @@
 
 <img src="https://media.licdn.com/dms/image/v2/D5616AQHTSKrticqsbw/profile-displaybackgroundimage-shrink_350_1400/B56ZoFk4IqJ4AY-/0/1761030146445?e=1764201600&v=beta&t=oE8NUENtfzptvPjJ6XWyyySJY6bqVveTxgBuL3ek6yY">
 
-<h1 align="center">Hi 👋, I'm Md Rasel Sarker</h1>
 <h3 align="center">Full Stack Web Designer & Developer | WordPress & Elementor Expert | Responsive Website Specialist | Front-End Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devrasel781&label=Profile%20views&color=0e75b6&style=flat" alt="devrasel781" /> </p>
@@ -40,4 +39,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrasel781&show_icons=true&locale=en" alt="devrasel781" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrasel781&" alt="devrasel781" /></p>
