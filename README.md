@@ -1,5 +1,5 @@
 
-<img src="[https://media.licdn.com/dms/image/v2/D5616AQHTSKrticqsbw/profile-displaybackgroundimage-shrink_350_1400/B56ZoFk4IqJ4AY-/0/1761030146445?e=1764201600&v=beta&t=oE8NUENtfzptvPjJ6XWyyySJY6bqVveTxgBuL3ek6yY](https://media.licdn.com/dms/image/v2/D5616AQHTSKrticqsbw/profile-displaybackgroundimage-shrink_350_1400/B56ZoFk4IqJ4AY-/0/1761030146445?e=1766016000&v=beta&t=7Lkt2nEcYYixaJB2g0EuQTtY6FeALocSbBtAO84Vn9A)">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHTSKrticqsbw/profile-displaybackgroundimage-shrink_350_1400/B56ZoFk4IqJ4AY-/0/1761030146445?e=1766016000&v=beta&t=7Lkt2nEcYYixaJB2g0EuQTtY6FeALocSbBtAO84Vn9A">
 
 <h3 align="center">Full Stack Web Designer & Developer | WordPress & Elementor Expert | Responsive Website Specialist | Front-End Developer.</h3>
 
